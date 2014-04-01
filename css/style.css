@@ -1,0 +1,14 @@
+h1 {
+  color: white;
+  background: purple;
+}
+
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+a[href="mknesek@eagles.ewu.edu"] {
+  text-transform : uppercase;
+  background : purple;
+}
